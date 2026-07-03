@@ -3,6 +3,7 @@ QuotesReady — UK Construction Estimating Platform
 Role: Freelance Full-Stack Developer
 Client: Simon Whittle, Founder — QuotesReady
 Stack: Base44 · VAPI (Voice AI) · Stripe · Google OAuth · DNS/SEO
+Live site : https://quotesready.com/
 
 
 The Problem
